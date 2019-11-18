@@ -1,0 +1,24 @@
+{
+    "name": "aiew", 
+    "version": "1.0.1", 
+    "description": "aiew to publish a node package to npmjs.com", 
+    "main": "src/hello-aiew.js", 
+    "scripts": { 
+    },
+    "repository": { 
+      "type": "git",
+      "url": "git@github.com:beforesecond/hellonpm.git"
+    },
+    "keywords": [
+      "npm",
+      "Hello aiew"
+    ],
+    "author": "BeforeSecond",
+    "license": "MIT", 
+    "bugs": { 
+      "url": "https://github.com/thanapun/hellonpm/issues"
+    },
+    "homepage": "https://github.com/thanapun/hellonpm/blob/master/README.md", 
+    "devDependencies": { 
+    }
+  } 
